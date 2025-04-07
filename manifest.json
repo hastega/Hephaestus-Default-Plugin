@@ -1,0 +1,11 @@
+{
+  "name": "Example",
+  "description": "Default plugin HEP",
+  "version": "0.0.6",
+  "authors": [
+    "Example Author 1",
+    "Example Author 2"
+  ],
+  "repository": "https://raw.githubusercontent.com/hastega/Hhepaestus-Default-Plugin.git",
+  "branch": "main"
+}
